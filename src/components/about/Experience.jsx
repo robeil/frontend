@@ -1,17 +1,11 @@
 import React from "react";
 
 const experienceContent = [
+ 
   {
-    year: "   2018 - Present",
-    position: " Web Developer",
-    compnayName: "Envato",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
-  },
-  {
-    year: "2013 - 2016",
-    position: " UI/UX Designer",
-    compnayName: "Themeforest",
+    year: "2013 - 2017",
+    position: " Software Engineer",
+    compnayName: "Liya Enterprise",
     details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
         elit, tempor incididunt`,
   },
